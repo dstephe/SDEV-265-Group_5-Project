@@ -1,0 +1,5 @@
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\SDEV 265\SDEV-265-Group_5-Project\SDEV-265-Group_5-Project\x64\Debug\Project practice.vcxproj.AssemblyReference.cache
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\SDEV 265\SDEV-265-Group_5-Project\SDEV-265-Group_5-Project\x64\Debug\Project practice.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\SDEV 265\SDEV-265-Group_5-Project\SDEV-265-Group_5-Project\x64\Debug\Projectpractice.RockPaperScissors.resources
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\SDEV 265\SDEV-265-Group_5-Project\SDEV-265-Group_5-Project\x64\Debug\Project practice.vcxproj.GenerateResource.cache
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\SDEV 265\SDEV-265-Group_5-Project\SDEV-265-Group_5-Project\x64\Debug\RockPaperScissors.exe
