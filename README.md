@@ -9,7 +9,7 @@
 6.	Locate the downloaded .zip file in your downloads folder.
 7.	Right click on the file and select the Extract all option.
 8.	Choose a destination for the extracted files.
-9.	Click Extract
+9.	Click Extract.
 10.	Open the folder and double click on the RockPaperScissors.exe file to begin installation.
 11.	Success! You can now play the greatest Rock, Paper, Scissors game ever created.
 
